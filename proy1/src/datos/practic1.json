@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "color":{"backgrounColor":"yellow"},
+        "nombre":"imagen de prueba",
+        "flag":"true"
+        
+
+    },
+    
+    {
+        "id": 2,
+        "color":{"backgrounColor":"red"},
+        "nombre":"imagen de prueba2",
+        "flag":"true"
+        
+
+    }
+
+
+]
